@@ -1,6 +1,7 @@
 # Applikationen Übersicht
 
-Dies soll eine Auflistung über mögliche Applikationen zu verschiedenen Anwendungszwecken.
+Dies soll eine Auflistung über mögliche Applikationen zu verschiedenen Anwendungszwecken sein.
+Es ist als Hilfestellung für die eigene Entscheidungsfindung gedacht.
 
 ## Allgemeine Tools
 
